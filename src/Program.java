@@ -11,6 +11,7 @@ public class Program {
 		System.out.printf("avg is %f\n", total/3.0f);
 		// line 1
 		// line 2
+		// new branch line1
 	}
 
 }
