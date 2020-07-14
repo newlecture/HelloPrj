@@ -9,6 +9,7 @@ public class Program {
 		int total = x + y;
 		System.out.printf("total is %d\n", total);
 		System.out.printf("avg is %f\n", total/3.0f);
+		// line 1
 	}
 
 }
