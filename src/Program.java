@@ -15,9 +15,6 @@ public class Program {
 		int total = x + y + z;
 		System.out.printf("total is %d\n", total);
 		System.out.printf("avg is %f\n", total/3.0f);
-		
-//		버전 1 추가
-//		버전 1, 2 추가
 	}
 
 }
